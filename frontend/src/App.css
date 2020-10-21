@@ -1,4 +1,84 @@
 .App {
   text-align: center;
   height: 100%;
+ 
+  
 }
+
+.form-container1 {
+  background: white;
+  border-radius: 20px;
+  padding: 30px 80px;
+  max-width: 800px;
+  margin: 0 auto;
+  box-shadow: 0 15px 16px;
+  background: #AAFFA9;  
+  background: -webkit-linear-gradient(to right, #11FFBD, #AAFFA9); 
+  background: linear-gradient(to right, #11FFBD, #AAFFA9); 
+
+}
+
+.Tweet{
+  height:100vh;
+  display:flex;
+  justify-content:space-around;
+  align-items:center;
+  background: #AAFFA9;  
+  background: -webkit-linear-gradient(to right, #11FFBD, #AAFFA9);  
+  background: linear-gradient(to right, #11FFBD, #AAFFA9);   
+}
+
+.Fb{
+  background-color: white;
+  height:500px;
+  width:500px;
+  border-radius: 50px;
+  margin-left:10px;
+  border: 5px solid  rgba(0, 0, 0, 0.490);
+}
+
+.Wb{
+  border-radius: 10px;  
+  border: 4px solid  rgba(0, 0, 0, 0.490);
+}
+
+.vas{
+  color: white;
+  text-shadow: 1px 1px 2px black, 0 0 25px blue, 0 0 5px darkblue;
+  text-align: center;
+  letter-spacing: 10px;
+  font-style: oblique
+}
+
+.soor{
+  text-shadow: 2px 2px 5px red;
+}
+
+.par{
+  text-shadow: 5px 5px 3px #696969;
+}
+
+.Fb1{
+  background-color: white;
+  height:500px;
+  width:500px;
+  border-radius: 50px;
+  margin-left:400px;
+  border: 5px solid  rgba(0, 0, 0, 0.490);
+}
+
+.vas1{
+  text-shadow: 2px 2px 5px  #1dbe40;
+}
+
+.vas2{
+  font-family: Charcoal, sans-serif;
+  text-shadow: 2px 2px 5px rgb(106, 106, 110);
+}
+
+.Thi{
+    background-color: white;
+    color: black;
+    border: 2px solid #0d490f;
+}
+
